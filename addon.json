@@ -1,0 +1,26 @@
+{
+	"title"		:	"Hemlock Taunt Pack",
+	"type"		:	"servercontent",
+	"version"	:	1,
+	"tags"		:	[ "fun" ],
+	"author"	:	"Jaquise",
+	"description":	"PropHunt taunt pack for the DreamNetwork GMod servers.",
+	"ignore"	:
+	[
+		"LICENSE",
+		"*.md",
+		"*.exe",
+		"*.exe.config",
+		"*.dll",
+		"*.dll.config",
+		"*.pdb",
+		"*.bat",
+		"*.cmd",
+		"*.sh",
+		"*.txt",
+		"*.gma",
+		"*.png",
+		"*.jpg",
+		".git*"
+	]
+}
